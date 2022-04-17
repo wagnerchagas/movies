@@ -1,0 +1,6 @@
+id,type,name,total_ep,atual_ep,last_view
+1,0,Friends,10,1,current_timestamp
+2,1,avengers,NULL,NULL,current_timestamp
+3,0," Breaking Bad ",5,2,current_timestamp
+4,0,"Black Mirror ",5,3,current_timestamp
+5,1,"O Gambito da Rainha ",NULL,NULL,current_timestamp
